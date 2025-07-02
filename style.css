@@ -1,4 +1,16 @@
-    *{
+   @media screen and (min-width: 900px) {
+   article {
+      padding: 1rem 3rem;
+   }
+   }
+   @supports (display: flex) {
+      @meia screen and (min-width: 900px) {
+         article}
+      display: flrx;
+   }
+}
+}
+   *{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
